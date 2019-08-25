@@ -44,6 +44,11 @@ export default
         title: 'ホーム'
         to: '/'
       }
+      {
+        icon: 'fa-clipboard'
+        title: '掲示板'
+        to: '/board'
+      }
     ]
     miniVariant: false
     right: true

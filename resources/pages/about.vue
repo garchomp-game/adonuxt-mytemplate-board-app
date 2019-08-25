@@ -1,4 +1,5 @@
 <template lang="pug">
+div
   h1 {{ params.name }}
 </template>
 <script lang="coffee">
