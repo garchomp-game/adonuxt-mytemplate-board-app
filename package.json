@@ -60,7 +60,7 @@
     "firebase": "^6.0.2",
     "font-awesome": "4.7.0",
     "material-design-icons-iconfont": "^5.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nodemon": "^1.11.0",
     "pug": "2.0.3",
     "pug-plain-loader": "^1.0.0",
